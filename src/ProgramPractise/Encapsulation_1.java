@@ -7,32 +7,26 @@ public class Encapsulation_1
     private int geekAge;
 
     public int getGeekAge ()
-    {
-        return geekAge;
+    {        return geekAge;
     }
 
     public int getGeekRoll ()
-    {
-        return geekRoll;
+    {        return geekRoll;
     }
 
     public String getGeekName ()
-    {
-        return geekName;
+    {        return geekName;
     }
 
     public void setGeekAge (int newAge)
-    {
-        geekAge = newAge;
+    {        geekAge = newAge;
     }
 
     public void setGeekRoll (int newRoll)
-    {
-        geekRoll = newRoll;
+    {        geekRoll = newRoll;
     }
 
     public void setGeekName (String newName)
-    {
-        geekName = newName;
+    {        geekName = newName;
     }
 }
